@@ -10,10 +10,10 @@ class User(private var email: String, private var password: String) : BaseObserv
                 && Patterns.EMAIL_ADDRESS.matcher(getEmail()).matches()
                 && getPassword().length > 6
 
+
      fun getPassword(): String {
         return password
     }
-
 
      fun getEmail(): String {
         return email
