@@ -1,4 +1,4 @@
-#Sun Sep 01 23:43:41 ICT 2019
+#Mon Sep 02 10:15:13 ICT 2019
 base.0=D\:\\Android Project\\MVVMKotlin\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
 path.0=classes.dex
 renamed.0=classes.dex

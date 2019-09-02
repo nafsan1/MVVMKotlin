@@ -18,7 +18,7 @@ class MainActivity : AppCompatActivity(),LoginResultCallBacks {
     }
 
     override fun onError(message: String) {
-        Toasty.success(this,message, Toast.LENGTH_SHORT).show()
+        Toasty.error(this,message, Toast.LENGTH_SHORT).show()
 
     }
 
